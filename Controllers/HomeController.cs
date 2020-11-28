@@ -9,6 +9,7 @@ using MaterialDashboardTheme.Models;
 
 namespace MaterialDashboardTheme.Controllers
 {
+    [Route("home")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -18,6 +19,9 @@ namespace MaterialDashboardTheme.Controllers
             _logger = logger;
         }
 
+        [Route("")]
+        [Route("~/")]
+        [Route("index")]
         public IActionResult Index()
         {
             return View();

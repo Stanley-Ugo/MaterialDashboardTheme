@@ -38,3 +38,4 @@ C:\Projects\MaterialDashboardTheme\obj\Debug\netcoreapp3.1\MaterialDashboardThem
 C:\Projects\MaterialDashboardTheme\obj\Debug\netcoreapp3.1\MaterialDashboardTheme.csproj.CopyComplete
 C:\Projects\MaterialDashboardTheme\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
 C:\Projects\MaterialDashboardTheme\obj\Debug\netcoreapp3.1\Razor\Views\Table\Index.cshtml.g.cs
+C:\Projects\MaterialDashboardTheme\obj\Debug\netcoreapp3.1\Razor\Views\Icons\Index.cshtml.g.cs
